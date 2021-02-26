@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeWS", "ChangeWS.csproj", "{B8E0C5E9-24C6-44D5-9DD3-9E9D5AC2771F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8E0C5E9-24C6-44D5-9DD3-9E9D5AC2771F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E0C5E9-24C6-44D5-9DD3-9E9D5AC2771F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8E0C5E9-24C6-44D5-9DD3-9E9D5AC2771F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E0C5E9-24C6-44D5-9DD3-9E9D5AC2771F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {067D087B-1140-439F-BE56-49B075B78BA0}
+	EndGlobalSection
+EndGlobal

@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+*.suo
+/ChangeWS/bin/Debug
+/ChangeWS/obj/Debug
+/.vs
